@@ -8,7 +8,7 @@
 ### TASKS
 
 * As a developer I want to have an architecture design of the entire system so that I can understand the entire application
-  * EPIC : ``` Architecture Design*   ```
+  * EPIC : ``` Architecture Design   ```
   * Acceptance Criteria 1 : Display as clear and simple as possible the Distributed design
   * Acceptance Criteria 2 : Display as clear and simple as possible the Scalability design
   * Acceptance Criteria 3 : Display as clear and simple as possible the Operations design
