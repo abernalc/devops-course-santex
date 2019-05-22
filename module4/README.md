@@ -35,6 +35,7 @@
   * Acceptance Criteria 5 : Make the section responsive (Fit for computer browsers and iphon5 devices)
 
 * As a person I can see the Who Am I section with its components so that I can read who is the developer
+  * EPIC : ``` Landing Page for our Curriculum Vitae  ```
   * Acceptance Criteria 1 : Display the general information about the developer in a paragraph of maximun 4 o 5 lines
   * Acceptance Criteria 2 : Display at least 3 values and a breif description for each value
   * Acceptance Criteria 3 : Make the section responsive (Fit for computer browsers and iphon5 devices)
